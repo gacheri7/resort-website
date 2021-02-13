@@ -41,3 +41,7 @@ img{
   width: 350px;
   float: left;
 }
+a{
+  color: black;
+  font-size: larger;
+}
