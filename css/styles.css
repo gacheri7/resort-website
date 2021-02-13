@@ -26,3 +26,18 @@ body{
 li{
   font-size: larger;
 }
+img{
+  float: left;
+}
+.sidebar{
+  background-color: aqua;
+  width: 30%;
+  float: right;
+  border: 2px solid blue;
+  padding:6px;
+  margin: 20px;
+}
+.column{
+  width: 350px;
+  float: left;
+}
